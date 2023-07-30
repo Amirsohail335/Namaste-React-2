@@ -50,7 +50,7 @@ const HeaaderComponent = () => {
       <Title />{" "}
       {/** component composition --> Title component inside HeaaderComponent component */}
       {/* Can also be written as { Title() } */}
-      <h1> Namaste React functional component </h1>
+      <h1> Namaste React functional component example </h1>
       <h2>This is a h2 tag </h2>
     </div>
   );
