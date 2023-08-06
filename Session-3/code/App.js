@@ -62,12 +62,12 @@ const HeaaderComponent = () => {
   /**
 //can also be written as :
 
-const HeaaderComponent2 = () => (
-    <div>
-      <h1> Namaste React functional component2 </h1> 
-      <h2>This is a h2 tag </h2>
-    </div>
-  ); 
+// const HeaaderComponent2 = () => (
+//     <div>
+//       <h1> Namaste React functional component2 </h1> 
+//       <h2>This is a h2 tag </h2>
+//     </div>
+//   ); 
 
 */
 }
