@@ -74,7 +74,7 @@ const HeaaderComponent = () => {
 
 // - class based Components - OLD
 
-const h1 = React.createElement("h1", { key: "2", id: "key" }, "Heading 1");
+// const h1 = React.createElement("h1", { key: "2", id: "key" }, "Heading 1");
 
 const h2 = React.createElement("h2", { key: "3", id: "key" }, "Heading 2");
 
