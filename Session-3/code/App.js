@@ -78,12 +78,12 @@ const HeaaderComponent = () => {
 
 // const h2 = React.createElement("h2", { key: "3", id: "key" }, "Heading 2");
 
-const container = React.createElement("div", { id: "container" }, [
-  heading,
-  heading2,
-  h1,
-  h2,
-]);
+//const container = React.createElement("div", { id: "container" }, [
+//   heading,
+//   heading2,
+//   h1,
+//   h2,
+// ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
