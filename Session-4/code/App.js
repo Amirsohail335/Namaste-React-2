@@ -18,7 +18,7 @@ const restaurantList = [
     data: {
       type: "F",
       id: "73011",
-      name: "KFC",
+      name: "KFC-Restaurant",
       uuid: "27ff4155-fe46-418e-9862-ab98953bf953",
       city: "22",
       area: "Anand Vihar Colony",
