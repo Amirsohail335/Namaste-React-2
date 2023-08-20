@@ -39,7 +39,7 @@ const restaurantList = [
       },
       cityState: "22",
       address:
-        "KFC Restaurant, Khasra No 1281/1291, Opp Dr Manish Jain hospital, Chakrata road, Dehradun-248001",
+        "KFC Restaurant, Khasra No 1281/1291, Opp Dr Manish Jain  Opp Dr Manish Jain hospital, Chakrata road, Dehradun-248001",
       locality: "Clock Tower",
       parentId: 547,
       unserviceable: false,
@@ -164,7 +164,7 @@ const restaurantList = [
       },
       cityState: "22",
       address:
-        "28/3 Sewala Chandravani Road,  Sewala Chandravani Raod Arcedia Grant, Dehradun Rural, Dehradun, Uttarakhand",
+        "28/3 Sewala Chandravani Road, Sewal Chandravani Road Grant, Dehradun Rural, Dehradun Uttarankhand 28/03 Dehradun, Uttarakhand",
       locality: "Patel Nagar",
       parentId: 22321,
       unserviceable: false,
