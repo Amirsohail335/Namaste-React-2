@@ -404,7 +404,7 @@ const restaurantList = [
       },
       cityState: "22",
       address:
-        "5/5,4/4 & 3/3, GROUND FLOOR, CHAKRATA ROAD, DEHRADUN, UTTRAKHAND",
+        "5/5,4/4 & 3/3, GROUND FLOOR, CHAKRATA ROAD, DEHRADUN, UTTRAKHAND DEHRADUN UTTER-PRADESH",
       locality: "CHAKRATA ROAD",
       parentId: 166,
       unserviceable: false,
