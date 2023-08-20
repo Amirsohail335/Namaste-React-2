@@ -34,7 +34,7 @@ const restaurantList = [
       slaString: "31 MINS",
       lastMileTravel: 6.199999809265137,
       slugs: {
-        restaurant: "kfc-chukkuwala-chukkuwala",
+        restaurant: "kfc-chukkuwala kfc",
         city: "dehradun",
       },
       cityState: "22",
