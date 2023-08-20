@@ -284,7 +284,7 @@ const restaurantList = [
       },
       cityState: "22",
       address:
-        "157/11, Chandra Parisar Chandra Bani Rd, Ekta Enclave, Doon Enclave, Majra, Dehradun, Uttarakhand 248171",
+        "157/11, Chandra Parisar  chandra parishar  neaar ekta enclave Chandra Bani Rd, Ekta Enclave, Doon Enclave, Majra, Dehradun, Uttarakhand 248171",
       locality: "Patel Nagar",
       parentId: 81850,
       unserviceable: false,
@@ -404,7 +404,7 @@ const restaurantList = [
       },
       cityState: "22",
       address:
-        "5/5,4/4 & 3/3, GROUND FLOOR, CHAKRATA ROAD, DEHRADUN, UTTRAKHAND DEHRADUN UTTER-PRADESH",
+        "5/5,4/4 & 3/3, GROUND FLOOR, CHAKRATA ROAD, Chakrata road near ground floor DEHRADUN, UTTRAKHAND DEHRADUN UTTER-PRADESH",
       locality: "CHAKRATA ROAD",
       parentId: 166,
       unserviceable: false,
@@ -648,7 +648,7 @@ const restaurantList = [
         city: "dehradun",
       },
       cityState: "22",
-      address: "348 santosh tower, majra road gram majra dehradun 248001",
+      address: "348 santosh tower, Majra Road Gram Majra Dehradun is restaurant pe sab santosh tower ke pass hai dehradun 248001",
       locality: "Patel Nagar",
       parentId: 298209,
       unserviceable: false,
