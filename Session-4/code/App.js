@@ -164,7 +164,7 @@ const restaurantList = [
       },
       cityState: "22",
       address:
-        "28/3 Sewala Chandravani Road, Arcedia Grant, Dehradun Rural, Dehradun, Uttarakhand",
+        "28/3 Sewala Chandravani Road,  Sewala Chandravani Raod Arcedia Grant, Dehradun Rural, Dehradun, Uttarakhand",
       locality: "Patel Nagar",
       parentId: 22321,
       unserviceable: false,
